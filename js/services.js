@@ -1,5 +1,5 @@
 // Configuration de votre numéro WhatsApp (Format international sans le +)
-const WHATSAPP_NUMBER = "243830843895"; 
+const WHATSAPP_NUMBER = "243841138532"; 
 
 // Données des tarifs par service
 const pricingData = {
